@@ -106,18 +106,6 @@ sudo dmesg | tail
 
 ---
 
-## 2. Demo Screenshots
-
-| # | What                        | Screenshot                               |
-| - | --------------------------- | ---------------------------------------- |
-| 1 | Multi-container supervision | ![1](screenshots/1-multi-container.jpeg) |
-| 2 | Metadata tracking           | ![2](screenshots/2-metadata.jpeg)        |
-| 3 | Logging                     | ![3](screenshots/3-logging.jpeg)         |
-| 4 | CLI and IPC                 | ![4](screenshots/4-cli-ipc.jpeg)         |
-| 5 | Soft-limit warning          | ![5](screenshots/5-soft-limit.jpeg)      |
-| 6 | Hard-limit enforcement      | ![6](screenshots/6-hard-limit.jpeg)      |
-| 7 | Scheduling experiment       | ![7](screenshots/7-scheduling.jpeg)      |
-| 8 | Clean teardown              | ![8](screenshots/8-cleanup.jpeg)         |
 
 ---
 
